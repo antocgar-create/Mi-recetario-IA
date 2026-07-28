@@ -1,9 +1,0 @@
-{
-  "name": "Mi recetario IA",
-  "short_name": "Recetario IA",
-  "start_url": ".",
-  "display": "standalone",
-  "background_color": "#2E3D34",
-  "theme_color": "#2E3D34",
-  "icons": []
-}
